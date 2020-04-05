@@ -5,4 +5,4 @@ message = """<<html><head>
 f = open('helloworld.html', 'w')
 f.write(message)
 f.close()
-webbrowser.open("file:///home/suryaveer/.config/spyder-py3/helloworld.html")
+webbrowser.open("file:///home/mohdfaizan/.config/spyder-py3/helloworld.html")
